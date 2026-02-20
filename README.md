@@ -1,2 +1,2 @@
-# Fleet-driver-app-T-mobile-
-Capstone project for T-Mobile: a driver web app visualizing real-time fleet events and routing decisions.
+# fleet-driver-app
+Execution-aware fleet driver web app enabling real-time route deviation detection and dynamic ETA recalculation.
