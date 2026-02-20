@@ -1,5 +1,5 @@
 # Fleet Driver App -- Fleeton
-execution-aware fleet driver web app enabling real-time route deviation detection and ETA impact visualization.
+Execution-aware fleet driver web app enabling real-time route deviation detection and ETA impact visualization.
 
 ## Context
 This frontend was developed as part of an industry-sponsored collaboration with T-Mobile for Business.
